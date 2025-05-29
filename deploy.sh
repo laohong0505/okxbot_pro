@@ -6,7 +6,7 @@ sudo apt update
 sudo apt install -y python3.10 python3.10-venv python3-pip git
 
 # 2. 克隆仓库
-git clone https://github.com/laohong0505/okx_bot.git
+git clone https://github.com/laohong0505/okxbot_pro.git
 cd okx_bot
 
 # 3. 创建虚拟环境
